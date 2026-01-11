@@ -437,6 +437,7 @@ input:focus, textarea:focus{
 /* Footer */
 .footer{
   padding:18px 0 30px;
+  margin:0;
 }
 .footer__inner{
   display:flex;
